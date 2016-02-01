@@ -1,6 +1,0 @@
-[0m[[0minfo[0m] [0mRunning BlobStorage [0m
-[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
-[0m[[0mdebug[0m] [0m  Classpath:[0m
-[0m[[0mdebug[0m] [0m	/home/cristian/Develop/src/personal/blobstorage/target/scala-2.11/classes[0m
-[0m[[0mdebug[0m] [0m	/home/cristian/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar[0m
-[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
